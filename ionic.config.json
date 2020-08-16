@@ -1,0 +1,7 @@
+{
+  "name": "appGuatemala",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
